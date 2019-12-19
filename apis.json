@@ -1,0 +1,75 @@
+{
+    "name": "Lykke",
+    "description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26564-lykke.jpg",
+    "tags": [
+        "api provider",
+        "blockchain",
+        "general data",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lykke\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Wallet_Api",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26564-lykke.jpg",
+            "humanURL": "https:\/\/lykke.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/wallet-api.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wallet-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lykke-ag"
+        },
+        {
+            "type": "Email",
+            "url": "support@lykke.com"
+        },
+        {
+            "type": "Email",
+            "url": "lykke@lykke.com"
+        },
+        {
+            "type": "Email",
+            "url": "pr@lykke.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@lykkex.com"
+        },
+        {
+            "type": "Email",
+            "url": "compliance@lykke.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lykke"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lykke.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.lykke.com"
+        }
+    ]
+}
